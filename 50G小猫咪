@@ -1,0 +1,25 @@
+proxies:
+  - {"name":"免费-日本1Ver.4-1","type":"vmess","server":"jp01-alt-vm0.entry.srthdw.art","port":"21581","cipher":"auto","uuid":"d8b1176e-8b3b-3995-a81a-941e26a5db3e","alterId":"1","tls":true,"skip-cert-verify":false}
+  - {"name":"免费-日本2-Ver.5-1","type":"vmess","server":"jp02-vm0.entry.srthdw.art","port":"11773","cipher":"auto","uuid":"d8b1176e-8b3b-3995-a81a-941e26a5db3e","alterId":"1","tls":false,"skip-cert-verify":false}
+  - {"name":"免费-日本3Ver.4-1","type":"vmess","server":"jp03-alt-vm0.entry.srthdw.art","port":"21581","cipher":"auto","uuid":"d8b1176e-8b3b-3995-a81a-941e26a5db3e","alterId":"1","tls":true,"skip-cert-verify":false}
+  - {"name":"免费-日本4-Ver.4-1","type":"vmess","server":"jp04-vm0.entry.srthdw.art","port":"444","cipher":"auto","uuid":"d8b1176e-8b3b-3995-a81a-941e26a5db3e","alterId":"0","tls":false,"skip-cert-verify":false}
+  - {"name":"免费-日本5-Ver.6-1","type":"vmess","server":"jp05-vm0.entry.srthdw.art","port":"46482","cipher":"auto","uuid":"d8b1176e-8b3b-3995-a81a-941e26a5db3e","alterId":"1","tls":false,"skip-cert-verify":false}
+  - {"name":"免费-日本6-Ver.5-1","type":"vmess","server":"jp06-vm0.entry.jpojpoh.art","port":"28783","cipher":"auto","uuid":"d8b1176e-8b3b-3995-a81a-941e26a5db3e","alterId":"1","tls":true,"skip-cert-verify":false}
+  - {"name":"免费-日本1Ver.4-2","type":"vmess","server":"jp01-alt-vm0.entry.srthdw.art","port":"21586","cipher":"auto","uuid":"df96bb00-da38-3645-bd41-a4b361e9d3ac","alterId":"1","tls":true,"skip-cert-verify":false}
+  - {"name":"免费-日本2-Ver.5-2","type":"vmess","server":"jp02-vm0.entry.srthdw.art","port":"11778","cipher":"auto","uuid":"df96bb00-da38-3645-bd41-a4b361e9d3ac","alterId":"1","tls":false,"skip-cert-verify":false}
+  - {"name":"免费-日本3Ver.4-2","type":"vmess","server":"jp03-alt-vm0.entry.srthdw.art","port":"21586","cipher":"auto","uuid":"df96bb00-da38-3645-bd41-a4b361e9d3ac","alterId":"1","tls":true,"skip-cert-verify":false}
+  - {"name":"免费-日本4-Ver.4-2","type":"vmess","server":"jp04-vm0.entry.srthdw.art","port":"449","cipher":"auto","uuid":"df96bb00-da38-3645-bd41-a4b361e9d3ac","alterId":"0","tls":false,"skip-cert-verify":false}
+  - {"name":"免费-日本5-Ver.6-2","type":"vmess","server":"jp05-vm0.entry.srthdw.art","port":"46487","cipher":"auto","uuid":"df96bb00-da38-3645-bd41-a4b361e9d3ac","alterId":"1","tls":false,"skip-cert-verify":false}
+  - {"name":"免费-日本6-Ver.5-2","type":"vmess","server":"jp06-vm0.entry.jpojpoh.art","port":"28788","cipher":"auto","uuid":"df96bb00-da38-3645-bd41-a4b361e9d3ac","alterId":"1","tls":true,"skip-cert-verify":false}
+  - {"name":"免费-日本1Ver.4-3","type":"vmess","server":"jp01-alt-vm0.entry.srthdw.art","port":"21585","cipher":"auto","uuid":"75593020-0cfb-306a-8375-673d66b95bcb","alterId":"1","tls":true,"skip-cert-verify":false}
+  - {"name":"免费-日本2-Ver.5-3","type":"vmess","server":"jp02-vm0.entry.srthdw.art","port":"11777","cipher":"auto","uuid":"75593020-0cfb-306a-8375-673d66b95bcb","alterId":"1","tls":false,"skip-cert-verify":false}
+  - {"name":"免费-日本3Ver.4-3","type":"vmess","server":"jp03-alt-vm0.entry.srthdw.art","port":"21585","cipher":"auto","uuid":"75593020-0cfb-306a-8375-673d66b95bcb","alterId":"1","tls":true,"skip-cert-verify":false}
+  - {"name":"免费-日本4-Ver.4-3","type":"vmess","server":"jp04-vm0.entry.srthdw.art","port":"448","cipher":"auto","uuid":"75593020-0cfb-306a-8375-673d66b95bcb","alterId":"0","tls":false,"skip-cert-verify":false}
+  - {"name":"免费-日本5-Ver.6-3","type":"vmess","server":"jp05-vm0.entry.srthdw.art","port":"46486","cipher":"auto","uuid":"75593020-0cfb-306a-8375-673d66b95bcb","alterId":"1","tls":false,"skip-cert-verify":false}
+  - {"name":"免费-日本6-Ver.5-3","type":"vmess","server":"jp06-vm0.entry.jpojpoh.art","port":"28787","cipher":"auto","uuid":"75593020-0cfb-306a-8375-673d66b95bcb","alterId":"1","tls":true,"skip-cert-verify":false}
+  - {"name":"免费-日本1Ver.4-4","type":"vmess","server":"jp01-alt-vm0.entry.srthdw.art","port":"21584","cipher":"auto","uuid":"9ef715f2-e937-3c76-b9c2-3ae1fec9171a","alterId":"1","tls":true,"skip-cert-verify":false}
+  - {"name":"免费-日本2-Ver.5-4","type":"vmess","server":"jp02-vm0.entry.srthdw.art","port":"11776","cipher":"auto","uuid":"9ef715f2-e937-3c76-b9c2-3ae1fec9171a","alterId":"1","tls":false,"skip-cert-verify":false}
+  - {"name":"免费-日本3Ver.4-4","type":"vmess","server":"jp03-alt-vm0.entry.srthdw.art","port":"21584","cipher":"auto","uuid":"9ef715f2-e937-3c76-b9c2-3ae1fec9171a","alterId":"1","tls":true,"skip-cert-verify":false}
+  - {"name":"免费-日本4-Ver.4-4","type":"vmess","server":"jp04-vm0.entry.srthdw.art","port":"447","cipher":"auto","uuid":"9ef715f2-e937-3c76-b9c2-3ae1fec9171a","alterId":"0","tls":false,"skip-cert-verify":false}
+  - {"name":"免费-日本5-Ver.6-4","type":"vmess","server":"jp05-vm0.entry.srthdw.art","port":"46485","cipher":"auto","uuid":"9ef715f2-e937-3c76-b9c2-3ae1fec9171a","alterId":"1","tls":false,"skip-cert-verify":false}
+  - {"name":"免费-日本6-Ver.5-4","type":"vmess","server":"jp06-vm0.entry.jpojpoh.art","port":"28786","cipher":"auto","uuid":"9ef715f2-e937-3c76-b9c2-3ae1fec9171a","alterId":"1","tls":true,"skip-cert-verify":false}
